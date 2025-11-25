@@ -1,1 +1,2 @@
 # MIMIC-IV-Extractor-Tool
+MIMIC-IV Extractor Tool is a Python library designed to help researchers extract and consolidate data from MIMIC-IV. Users can work with the database without needing knowledge of SQL manipulation, making data extraction simpler, faster and reproductive. This library is an updated and expanded version of MIMIC-III Extractor Tool, adapted to the modular structure and tables of MIMIC-IV.
